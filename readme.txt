@@ -14,7 +14,7 @@ The WP mobile theme switcher enables you to set an exclusive theme for desktops,
 
 Yes, using the WP mobile theme switcher you can now keep your desktop theme & still display an exclusive one for your smartphone's and tablets visitors.
 
-You can also distribute your mobile friendly website as a native Android App on the Google Play store with the [DroidYourSite](http://wordpress.org/plugins/search.php?q=droidyoursite) WordPress Plugin.
+You can also distribute your mobile friendly website as a native Android App on the Google Play store with the [DroidYourSite](http://wordpress.org/plugins/droidyoursite/) WordPress Plugin.
 
 == Installation ==
 

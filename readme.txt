@@ -24,6 +24,28 @@ Installing the WP Mobile Theme Switcher Plugin from your WordPress admin panel:
 2. Choose the "WP Mobile Theme Switcher" Plugin and click "Install Now".  Click "Activate Plugin".
 3. Click the WP Mobile Theme Switcher button on the menu sidebar to start using it.
 
+== Frequently Asked Questions ==
+
+= Can I set an exclusive mobile theme just for smartphone or tablets? =
+Yes, you can set a mobile theme just for smartphones, or just for tablets or for both of them.
+
+= How do I access the WP Mobile Theme Switcher settings screen? =
+Just click the "Mobile Theme Switcher" button on the menu sidebar in order to configure it.
+
+= What are the WP Mobile Theme Switcher installation guide? =
+
+Installing the Wordpress Mobile Theme Switcher Plugin from your WordPress admin panel:
+
+1. Go to the "Plugins" / "Add new" on the left main menu. Type Wordpress Mobile Theme Switcher within the search box and click "Search Plugins".
+2. Choose the "Wordpress Mobile Theme Switcher" Plugin and click "Install Now".  Click "Activate Plugin".
+3. Click the Wordpress Mobile Theme Switcher button on the menu sidebar to start using it.
+
+= How does the WP Mobile Theme Switcher detect if a user is visiting my website from a desktop, smartphone or a tablet? =
+The WP Mobile Theme Switcher identify the "User Agent" in order to detect the traffic source.
+
+= Can I use any Wordpress Mobile Theme? =
+Yes, you can use any Wordpress mobile theme and it will be identified by the WP Mobile Theme Switcher plugin.
+
 == Screenshots ==
 
 1. The Wordpress Mobile Theme Switcher control panel

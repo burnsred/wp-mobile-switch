@@ -3,7 +3,7 @@ Contributors: wiziapp
 Tags: wordpress mobile theme, mobile theme switcher, theme switcher, mobile theme, user agent
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: v1.0.0
+Stable tag: v1.0.1
 License: GPLv2 or later
 
 Choose an exclusive theme for Desktop, Smartphones and Tablets in just a one click.
@@ -54,6 +54,10 @@ Yes, you can use any Wordpress mobile theme and it will be identified by the WP 
 
 == Changelog ==
 
+= 1.0.1 =
+
+- Bug fixes.
+
 = 1.0.0 =
 
-* The WP Mobile Theme Switcher is a new plugin, change logs will display for the future version of the Search by Tags plugin.
+- The WP Mobile Theme Switcher is a new plugin, change logs will display for the future version of the Search by Tags plugin.

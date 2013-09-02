@@ -177,7 +177,7 @@
 		{
       $uagent_obj = new uagent_info();
 
-      if ($uagent_obj->isTierIphone === $uagent_obj->true)
+      if ($uagent_obj->isMobilePhone === $uagent_obj->true)
       {
       	return 'mobile';
       }
